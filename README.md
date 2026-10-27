@@ -57,12 +57,6 @@ Ferramentas
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
 
-📊 Estatísticas do GitHub
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeanrosario&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrosario&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas">
-</p>
-
 🚀 Meu objetivo
 Evoluir como desenvolvedor por meio de estudo consistente, projetos práticos e colaboração com outras pessoas da área de tecnologia.
 “Cada projeto é uma oportunidade de aprender, resolver um problema e escrever código melhor.”
