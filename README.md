@@ -9,16 +9,18 @@
   Estou aprendendo e construindo projetos para transformar conhecimento em soluções reais. Tenho interesse em desenvolvimento web, APIs, bancos de dados e aplicações que resolvam problemas do dia a dia.
 </p>
 
-🌐 Onde me encontrar
+
+## 🌐 Onde me encontrar
+
 <p align="left">
   <a href="https://github.com/jean-cunha">
-    <img src="https://img.shields.io/badge/GitHub-jean-cunha-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-jean--cunha-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/je4n.dev/">
     <img src="https://img.shields.io/badge/Instagram-@je4n.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/jean-rosario-cunha-855332290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Ros%C3%A1rio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Ros%C3%A1rio%20Cunha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
