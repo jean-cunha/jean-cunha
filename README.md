@@ -11,8 +11,8 @@
 
 🌐 Onde me encontrar
 <p align="left">
-  <a href="https://github.com/jeanrosario">
-    <img src="https://img.shields.io/badge/GitHub-jeanrosario-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/jean-cunha">
+    <img src="https://img.shields.io/badge/GitHub-jean-cunha-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/je4n.dev/">
     <img src="https://img.shields.io/badge/Instagram-@je4n.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
