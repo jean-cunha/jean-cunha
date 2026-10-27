@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu sou Jean Rosário 👋</h1>
+<h1 align="left">Olá! Me chamo Jean Rosario 👋</h1>
 
 <p align="left">
   💻 Estudante de Desenvolvimento de Software, com foco em desenvolvimento <strong>Full-Stack</strong>.<br>
